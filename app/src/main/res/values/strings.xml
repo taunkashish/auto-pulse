@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoPulse</string>
+    <string name="car_app_desc">Vehicle real-time telemetry and diagnostics</string>
+    <string name="default_web_client_id">851557468302-6iaj7fgnd7go7828bhre2eia61ohhtjn.apps.googleusercontent.com</string>
+</resources>

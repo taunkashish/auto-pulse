@@ -1,0 +1,8 @@
+{
+  "name": "AutoPulse",
+  "description": "Real-time vehicle telemetry, diagnostics, and performance analytics for Android Auto with cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
